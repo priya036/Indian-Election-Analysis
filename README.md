@@ -10,7 +10,6 @@ This project focuses on performing in-depth analysis of election data spanning f
 2. [Technologies Used](#technologies-used)  
 3. [Data Analysis Process](#data-analysis-process)  
 4. [Dashboard Insights](#dashboard-insights)  
-5. [Usage](#usage)  
 
 ---
 
