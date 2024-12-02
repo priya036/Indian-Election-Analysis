@@ -53,4 +53,3 @@ The dashboard displays key insights into election trends, including:
 - **Top Parties and Candidates:** Insights into the parties and candidates that performed the best.
 - **Vote Share:** Comparative analysis of vote shares for each election.
 - **Geographical Insights:** Mapping of election data by regions to identify geographically dominant parties.
-
